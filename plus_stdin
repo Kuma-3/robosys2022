@@ -13,4 +13,4 @@ ans = 0
 for line in sys.stdin:
      ans += tonum(line)
 
-print("例外処理追加",ans)
+print(ans)
