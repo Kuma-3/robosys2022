@@ -1,4 +1,4 @@
-CTYPE html>
+TYPE html>
 <html>
 <head>
 </head>
@@ -9,8 +9,12 @@ CTYPE html>
 <h2>plusコマンド</h2>
 <h3>コマンドの機能</h3>
 <h3>導入方法</h3>
-<p><code>$ &nbsp;git clone&nbsp; git@github.com:Kuma-3/robosys2022.git</code></p>
-<p><code>$ cd robosys2022</code></p>
+
+```
+$ git clone git@github.com:Kuma-3/robosys2022.git
+$ cd robosys2022
+```
+  
 <h3>実行までの流れ</h3>
 <h3>実行例</h3>
 <h3>必要なソフトウェア</h3>
@@ -19,4 +23,5 @@ CTYPE html>
 <p>このソフトウェアパッケージは3条項BSDライセンスの下、再頒布および使用が許可されます。<br />このパッケージのコードは、下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを本人の許可を得て自身の著作として利用したものです。<br />https://github.com//ryuichiueda/my_slides/tree/master/robosys_2022<br />&copy; 2022 Ayaka Kumagai</p>
 </body>
 </html>
+
 
